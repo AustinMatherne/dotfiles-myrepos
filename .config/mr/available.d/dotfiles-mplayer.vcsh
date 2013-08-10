@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles-mplayer.git]
+checkout = vcsh clone git://github.com/AustinMatherne/dotfiles-mplayer.git dotfiles-mplayer
