@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/dotfiles-virtualenv.git]
-checkout = vcsh clone https://github.com/AustinMatherne/dotfiles-virtualenv.git dotfiles-virtualenv
+checkout = vcsh clone git@github.com:AustinMatherne/dotfiles-virtualenv.git dotfiles-virtualenv

@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/dotfiles-gtk.git]
-checkout = vcsh clone https://github.com/AustinMatherne/dotfiles-gtk.git dotfiles-gtk
+checkout = vcsh clone git@github.com:AustinMatherne/dotfiles-gtk.git dotfiles-gtk
