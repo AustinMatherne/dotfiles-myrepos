@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/dotfiles-parcellite.git]
-checkout = vcsh clone git://github.com/AustinMatherne/dotfiles-parcellite.git dotfiles-parcellite
+checkout = vcsh clone https://github.com/AustinMatherne/dotfiles-parcellite.git dotfiles-parcellite
