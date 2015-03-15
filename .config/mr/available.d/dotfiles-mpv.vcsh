@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles-myrepos.git]
+checkout = vcsh clone git@github.com:AustinMatherne/dotfiles-mpv.git dotfiles-mpv
