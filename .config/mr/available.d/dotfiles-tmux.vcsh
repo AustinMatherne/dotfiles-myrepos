@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles-tmux.git]
+checkout = vcsh clone git@github.com:AustinMatherne/dotfiles-tmux.git dotfiles-tmux
