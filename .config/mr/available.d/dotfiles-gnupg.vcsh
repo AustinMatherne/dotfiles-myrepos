@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles-gnupg.git]
+checkout = vcsh clone git@github.com:AustinMatherne/dotfiles-gnupg.git dotfiles-gnupg
