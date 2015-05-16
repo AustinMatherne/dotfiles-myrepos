@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/dotfiles-htop.git]
-checkout = vcsh clone git@github.com:AustinMatherne/dotfiles-htop.git dotfiles-htop
